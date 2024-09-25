@@ -7,11 +7,12 @@
   - [[#install-unity][Install Unity]]
   - [[#download-project-related-asset-packages][Download project-related asset packages]]
   - [[#create-a-new-unity-project][Create a new Unity project]]
+  - [[#suggested-unity-project-folder-structure][Suggested Unity project folder structure]]
 
 * Workshop information
 
-Title: Virtual Acoustic Ecologies\\
-Dates: October 21-25 2024\\
+Title: Virtual Acoustic Ecologies \\
+Dates: October 21-25 2024 \\
 Instructors: Achilleas Xydis & Constantinos Miltiadis\\
 Workshop space: HIB Open Space 3\\
 Workshop website: https://aa.arch.ethz.ch/seminar-weeks/hs24/
@@ -37,3 +38,20 @@ Reference guide from last workshop: https://aa.arch.ethz.ch/seminar-weeks/immers
 2. Install Steam Audio
    1. With Unity open, go to the directory where you extracted the Steam Audio Plugin, locate the Unity package, and open it.
    2. An import dialogue will open in Unity. Make sure everything is selected and click /Import/.
+** Suggested Unity project folder structure
+We recommend using the following structure for your Unity project so that we can keep track of each project's assets and dependencies.
+- /Assets (default asset folder for Unity projects)
+  - /Workshop assets
+    - /materials-textures
+    - /geometries
+    - /audio
+    - /scripts
+    - /prefabs
+    - /scenes
+  - <My project folder>/
+    - /materials-textures
+    - /geometries
+    - /audio
+    - /prefabs
+    - /scenes
+    - /imports
