@@ -11,13 +11,12 @@
 
 * Workshop information
 
-Title: Virtual Acoustic Ecologies \\
-Dates: October 21-25 2024 \\
-Instructors: Achilleas Xydis & Constantinos Miltiadis \\
-Workshop space: HIB Open Space 3 \\
-Workshop website: https://aa.arch.ethz.ch/seminar-weeks/hs24/
-
-Reference guide from last workshop: https://aa.arch.ethz.ch/seminar-weeks/immersive-realities/immersive-realities-guides/
++ Title: Virtual Acoustic Ecologies
++ Dates: October 21-25 2024
++ Instructors: Achilleas Xydis & Constantinos Miltiadis
++ Workshop space: HIB Open Space 3
++ Workshop website: https://aa.arch.ethz.ch/seminar-weeks/hs24/
++ Reference guide from previous workshop: https://aa.arch.ethz.ch/seminar-weeks/immersive-realities/immersive-realities-guides/
 ** Requirements
 1. Laptop & mouse
 2. Headphones
