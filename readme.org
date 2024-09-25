@@ -2,12 +2,11 @@
 
 * Table of Contents :toc:
 - [[#workshop-information][Workshop information]]
-- [[#requirements][Requirements]]
+  - [[#requirements][Requirements]]
 - [[#installation--preparation-instructions][Installation & preparation instructions]]
   - [[#install-unity][Install Unity]]
   - [[#download-project-related-asset-packages][Download project-related asset packages]]
-- [[#create-a-new-unity-project][Create a new Unity project]]
-- [[#][]]
+  - [[#create-a-new-unity-project][Create a new Unity project]]
 
 * Workshop information
 
@@ -18,7 +17,7 @@ Workshop space: HIB Open Space 3\\
 Workshop website: https://aa.arch.ethz.ch/seminar-weeks/hs24/
 
 Reference guide from last workshop: https://aa.arch.ethz.ch/seminar-weeks/immersive-realities/immersive-realities-guides/
-* Requirements
+** Requirements
 1. Laptop & mouse
 2. Headphones
 * Installation & preparation instructions
@@ -33,9 +32,8 @@ Reference guide from last workshop: https://aa.arch.ethz.ch/seminar-weeks/immers
    2. Extract the Zip file on your computer.
 2. Workshop demo files. [Download from.... ]
 3. (Optional)[[https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/Installation.html][Post Processing Stack v2]]
-* Create a new Unity project
+** Create a new Unity project
 1. Open Unity and select the template *3D (URP)*
 2. Install Steam Audio
    1. With Unity open, go to the directory where you extracted the Steam Audio Plugin, locate the Unity package, and open it.
    2. An import dialogue will open in Unity. Make sure everything is selected and click /Import/.
-*
