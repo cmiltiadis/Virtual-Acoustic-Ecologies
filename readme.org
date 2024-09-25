@@ -1,0 +1,31 @@
+#+title: Readme
+
+* Table of Contents :toc:
+- [[#workshop-information][Workshop information]]
+- [[#installation--preparation-instructions][Installation & preparation instructions]]
+  - [[#install-unity][Install Unity]]
+  - [[#download-project-related-asset-packages][Download project-related asset packages]]
+- [[#create-a-new-unity-project][Create a new Unity project]]
+
+* Workshop information
+
+Title:
+Dates:
+Instructors:
+Reference guide from last workshop: https://aa.arch.ethz.ch/seminar-weeks/immersive-realities/immersive-realities-guides/
+* Installation & preparation instructions
+** Install Unity
++ Go to [[https://unity.com/][Unity.com]], and click /Download/ to download the /Unity Hub/.
++ Install the /Unity Hub/
++ Open /Unity Hub/, go to /Installs/, /Install Editor/
++ Download Unity version  2022.3.47f1
+** Download project-related asset packages
+1. Go to [[https://valvesoftware.github.io/steam-audio/downloads.html][Steam Audio webpage]].
+   1. Download the Unity plugin.
+   2. Extract the Zip file on your computer.
+2. Workshop demo files ...
+* Create a new Unity project
+1. Open Unity and select template 3D (URP)
+2. Install Steam Audio
+   1. With Unity open, go to the directory where you extracted the Steam Audio Plugin, locate the Unity package, and open it.
+   2. An import dialogue will open in Unity. Make sure everything is selected and click /Import/.
