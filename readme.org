@@ -29,7 +29,7 @@
 + The installation includes Visual Studio.
 + During the installation make sure to include build support for your operating system (i.e. Windows / OSX).
 ** Step 2: Download project-related assets
-1. Download Steeam Audio.
+1. Download the Steam Audio plugin (for virtual audio spatialization).
    1. Go to [[https://valvesoftware.github.io/steam-audio/downloads.html][Steam Audio webpage]].
    2. Download the Unity plugin.
    3. Extract the Zip file on your computer (e.g. documents/24-Seminar-Week/SteamAudio/).
