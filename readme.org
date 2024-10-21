@@ -33,7 +33,8 @@
    1. Go to [[https://valvesoftware.github.io/steam-audio/downloads.html][Steam Audio webpage]].
    2. Download the Unity plugin.
    3. Extract the Zip file on your computer (e.g. documents/24-Seminar-Week/SteamAudio/).
-2. Download workshop Unity packages ....
+2. Download workshop Unity packages
+   1. Download [[file:Unity/PlayerController03.unitypackage][First-person-controller]] unity package.
 * Create a new Unity project
 1. Open Unity and select the template *3D HD*
 2. Install Steam Audio to project
